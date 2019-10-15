@@ -8,6 +8,9 @@ Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası
 REFERANSLAR
 
 https://javascript.info/dom-attributes-and-properties
+
 https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
 https://engincode.com/input-only-number-in-javascript
+
 https://www.w3schools.com/jsref/jsref_parseint.asp
