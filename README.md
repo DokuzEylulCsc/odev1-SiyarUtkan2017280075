@@ -4,3 +4,10 @@ Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası
 2.	“Yapıştır” düğmesine basınca “Metin Kutusu 3“ ve “Metin Kutusu 4” içerisine yazılmış iki metin değerini birleştirerek sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız.
 3.	Web sayfanız açıldığında, başlığında (sekmede gözüken) ve içerisindeki ilk başlıkta (sayfanın üzerinde gözükecek şekilde) isminiz ve öğrenci numaranız yazılı olmalıdır.
 4.	(+1 puan bonus) İlk maddedeki toplama işleminin yapıldığı metin kutularına sadece nümerik karakterler (0, 1, 2, vb. sadece rakam) girilebilmesini sağlayan JavaScript kodunu ekleyiniz.
+
+REFERANSLAR
+
+https://javascript.info/dom-attributes-and-properties
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+https://engincode.com/input-only-number-in-javascript
+https://www.w3schools.com/jsref/jsref_parseint.asp
